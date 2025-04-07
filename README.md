@@ -7,7 +7,7 @@ A simple REST API built with Django and Django REST Framework (DRF) for managing
 ### 1. Clone the Repository
 
 ```bash
-git clone <your_repository_url>
+git clone https://github.com/Ordnarycoder/Books-Django-Rest-Api-52.git
 ```
 
 ### 2. Set Up Virtual Environment
